@@ -1,6 +1,14 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). This is a MERN stack web application created for General Assembly’s Software Engineering Immersive Program. This is the frontend repository of the application.
+
+##About App
+
+This is called The Value Shop. It is a shopping app where users can shop easily online and also be a seller. The main inspiration of this app is to allow users to be both a consumer and a seller with ease and safety.
+
+#Future Improvements
+
+To add a coin reward system for everytime a user reviews their purchased item. These coin rewards can be used to offset the cost of their consumer's future purchases.
 
 ## Available Scripts
 
